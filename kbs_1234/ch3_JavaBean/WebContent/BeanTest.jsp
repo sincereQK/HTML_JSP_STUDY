@@ -2,7 +2,7 @@
     pageEncoding="EUC-KR"%>
 <body>
 <form action="Gildong.jsp">
-    ÀÌ¸§ : <input type="text" name="name"/>  <br/>
-  <input type="submit" value="Àü¼Û"/>
+    Ã€ÃŒÂ¸Â§ : <input type="text" name="name"/>  <br/>
+  <input type="submit" value="Ã€Ã¼Â¼Ã›"/>
 </form>
 </body>
