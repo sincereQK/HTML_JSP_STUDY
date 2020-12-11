@@ -12,10 +12,10 @@
 <body>
 <%
 String id=request.getParameter("userid");
-out.print("Àü¼ÛµÇ¾î ¿Â ID ´Â : ");
+out.print("ì „ì†¡ë˜ì–´ ì˜¨ ID ëŠ” : ");
 out.print(id);
 %>
 </body>
-<%-- <%= "³Ñ°ÜÁ®¿Â ¾ÆÀÌµð´Â" %>
+<%-- <%= "ë„˜ê²¨ì ¸ì˜¨ ì•„ì´ë””ëŠ”" %>
 <%= id %> --%>
 </html>
