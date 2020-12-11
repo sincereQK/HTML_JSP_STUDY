@@ -12,7 +12,7 @@
 <!-- <FORM NAME = "frm1" ACTION = " inputText_ok.jsp" METHOD = "post"> -->
    user id : 
       <INPUT TYPE = "text" NAME="userid" SIZE=20 MAXLENGTH=20 >
-   <br> <INPUT TYPE = "submit" VALUE = "Àü¼Û" >
+   <br> <INPUT TYPE = "submit" VALUE = "Ã€Ã¼Â¼Ã›" >
 </FORM>
 </body>
 </html>
